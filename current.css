@@ -1,0 +1,20 @@
+body{
+   background-color:#eeb76b;
+}
+hr{
+  width: 30%;
+  border-style: dotted none none;
+  border-color: white;
+  border-width: 2.5px;
+}
+img{
+  width: 250px;
+  background-color: blue;
+}
+img:hover {
+  transform: scaleX(-1);
+}
+h3,h1
+{
+  color: 	#663399;
+}
